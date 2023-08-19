@@ -11,7 +11,7 @@
 <div align="center">
   
 # 💫About Me :
-🌱 I’m currently learning : Go Language
+🌱 I’m currently learning : Rust
   
 💬 Ask me about for any help
 
