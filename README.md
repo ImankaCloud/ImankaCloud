@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🌱 I’m currently learning : Rust
+🌱 I’m currently learning : Ruby
   
 💬 Ask me about for any help
 
