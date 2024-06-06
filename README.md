@@ -30,4 +30,3 @@
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
-
