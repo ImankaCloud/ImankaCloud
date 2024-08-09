@@ -11,8 +11,6 @@
   
 # 💫About Me :
 🌱 I’m currently learning : Ruby
-  
-💬 Ask me about for any help
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
   
